@@ -1,1 +1,5 @@
-C:\hd\backend\ecommerce\inventory-service\src\main\java\org\hakandereli\Main.java
+C:\hd\backend\ecommerce\inventory-service\src\main\java\com\hakandereli\inventoryservice\repository\InventoryRepository.java
+C:\hd\backend\ecommerce\inventory-service\src\main\java\com\hakandereli\inventoryservice\service\InventoryService.java
+C:\hd\backend\ecommerce\inventory-service\src\main\java\com\hakandereli\inventoryservice\InventoryServiceApplication.java
+C:\hd\backend\ecommerce\inventory-service\src\main\java\com\hakandereli\inventoryservice\controller\InventoryController.java
+C:\hd\backend\ecommerce\inventory-service\src\main\java\com\hakandereli\inventoryservice\model\Inventory.java

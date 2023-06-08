@@ -1,1 +1,5 @@
-org\hakandereli\Main.class
+com\hakandereli\inventoryservice\controller\InventoryController.class
+com\hakandereli\inventoryservice\repository\InventoryRepository.class
+com\hakandereli\inventoryservice\model\Inventory.class
+com\hakandereli\inventoryservice\service\InventoryService.class
+com\hakandereli\inventoryservice\InventoryServiceApplication.class

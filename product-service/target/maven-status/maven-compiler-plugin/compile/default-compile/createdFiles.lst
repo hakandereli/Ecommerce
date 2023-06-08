@@ -1,1 +1,10 @@
-org\hakandereli\Main.class
+com\hakandereli\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\hakandereli\productservice\service\ProductService.class
+com\hakandereli\productservice\controller\ProductController.class
+com\hakandereli\productservice\model\ProductResponse$ProductResponseBuilder.class
+com\hakandereli\productservice\ProductServiceApplication.class
+com\hakandereli\productservice\model\ProductResponse.class
+com\hakandereli\productservice\dto\ProductRequest.class
+com\hakandereli\productservice\model\Product.class
+com\hakandereli\productservice\model\Product$ProductBuilder.class
+com\hakandereli\productservice\repository\ProductRepository.class
