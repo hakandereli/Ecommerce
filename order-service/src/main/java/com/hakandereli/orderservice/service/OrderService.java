@@ -70,6 +70,7 @@ public class OrderService {
         //Allmacth metodu içerisinde bir if gibi çalışır hepsi true dönüyorsa true döner
         boolean allProductsInStock = Arrays.stream(inventoryResponsArray).allMatch(InventoryResponse::isInStock);
 
+        // TODO: 6/9/2023 stock azaltma eklenecek
         //Ürünleri tümü stokta varsa siparişi kaydet
         if (allProductsInStock) {
             orderRepository.save(order);
