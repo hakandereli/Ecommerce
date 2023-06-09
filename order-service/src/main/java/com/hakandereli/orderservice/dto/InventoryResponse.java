@@ -1,4 +1,4 @@
-package com.hakandereli.inventoryservice.dto;
+package com.hakandereli.orderservice.dto;
 
 
 import lombok.AllArgsConstructor;
