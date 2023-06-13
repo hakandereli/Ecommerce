@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.0</version>
+        <version>3.0.4</version>
     </parent>
 
     <groupId>org.hakandereli</groupId>
@@ -25,7 +25,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-cloud.version>2021.0.2</spring-cloud.version>
+        <spring-cloud.version>2021.0.1</spring-cloud.version>
     </properties>
 
     <dependencyManagement>
@@ -46,8 +46,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-
     <build>
         <plugins>
             <plugin>
